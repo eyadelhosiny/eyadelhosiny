@@ -4,7 +4,7 @@
 
 # 🔧 Languages
 
-![My Languages](https://skillicons.dev/icons?i=python,js,html,css)
+![My Languages](https://skillicons.dev/icons?i=js,ts,python,html,css)
 
 # ✨ Skills
 
