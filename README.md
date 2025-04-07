@@ -1,6 +1,6 @@
 ![Eyad Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=511752&width=435&lines=Hi+there%2C+I'm+Eyad+%F0%9F%91%8B)
 
-👨‍💻 Programmer | 🌐 Back-End Developer | 🛡️ Cyber Security 
+👨‍💻 Programmer | 🛡️ Cyber Security | 🌐 Web Developer
 
 # 🔧 Languages
 
@@ -10,11 +10,11 @@
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,react,discord,bots,discordjs,kali,linux)
 
-📚 Editor | 📜 Scripter | 💻 Error Solver | 🎮 Gamer
+Dreamer 💜| 😄 Passionate | 💻 Problem Solver
 
 💬 Connect with me on Discord: [My Discord Account](https://discordapp.com/users/1018114834463727686)
 
-**I'm addicted to learning programming & crafting innovative solutions**
+**I'm passionate about learning programming & crafting innovative solutions**
 
 # My Social Media
 
