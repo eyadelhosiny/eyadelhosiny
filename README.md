@@ -18,7 +18,7 @@ Dreamer 💜| 😄 Passionate | 💻 Problem Solver
 
 # My Social Media
 
-[Instagram](https://www.instagram.com/eyad_elhosiny6) | [Youtube](https://www.youtube.com/@Potter_Head_62242) | [X](https://twitter.com/EyadElhosiny) | [Spotify](https://open.spotify.com/user/31cwvfer6voqqxs5n7b4q7qilxgi) | [Github](https://github.com/Eyad-Elhosiny) | [Twitch](https://www.twitch.tv/eyad_elhosiny)
+[Instagram](https://www.instagram.com/eyad.elhosiny8) | [Youtube](https://www.youtube.com/@Potter_Head_62242) | [X](https://twitter.com/EyadElhosiny) | [Spotify](https://open.spotify.com/user/31cwvfer6voqqxs5n7b4q7qilxgi) | [Github](https://github.com/Eyad-Elhosiny) | [Twitch](https://www.twitch.tv/eyad_elhosiny)
 
 <br>
   <a href=#><img width="100%"  src="Status.svg"></a>
