@@ -8,7 +8,7 @@
 
 # ✨ Skills
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,bots,discordjs,kali,linux,discord)
+![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,mysql,bots,discordjs,kali,linux,discord)
 
 Dreamer 💜| 😄 Passionate | 💻 Problem Solver
 
