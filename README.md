@@ -28,5 +28,5 @@ Dreamer 💜| 😄 Passionate | 💻 Problem Solver
 </div>
     
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Eyad-Elhosiny/count.svg" />  
+  ![Profile Views](https://komarev.com/ghpvc/?username=eyadelhosiny&color=blueviolet)
 </p>
