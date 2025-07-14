@@ -27,4 +27,6 @@ Dreamer 💜| 😄 Passionate | 💻 Problem Solver
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
     
-![Profile Views](https://komarev.com/ghpvc/?username=eyadelhosiny&color=blueviolet)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eyadelhosiny&color=blueviolet" alt="Profile Views" />
+</p>
