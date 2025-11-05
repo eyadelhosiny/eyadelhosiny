@@ -4,11 +4,11 @@
 
 # 🔧 Languages
 
-![My Languages](https://skillicons.dev/icons?i=js,ts,python,html,css)
+![My Languages](https://skillicons.dev/icons?i=js,ts,python,cpp,bash,html,css)
 
 # ✨ Skills
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,mysql,bots,discordjs,kali,linux,discord)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,mongodb,mysql,bots,discordjs,kali,linux,git,github)
 
 Dreamer 💜| 😄 Passionate | 💻 Problem Solver
 
