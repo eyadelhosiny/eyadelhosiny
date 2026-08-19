@@ -21,11 +21,13 @@ Dreamer 💜 | 😄 Passionate | 💻 Problem Solver
 [Portfolio](https://eyadelhosiny.vercel.app/) | [Instagram](https://www.instagram.com/eyad.elhosiny8) | [Youtube](https://www.youtube.com/@Potter_Head_62242) | [X](https://twitter.com/EyadElhosiny) | [Spotify](https://open.spotify.com/user/31cwvfer6voqqxs5n7b4q7qilxgi) | [Github](https://github.com/Eyad-Elhosiny) | [Twitch](https://www.twitch.tv/eyad_elhosiny)
 
 <br>
+  <a href=#><img width="100%"  src="Status.svg"></a>
+
+<br>
 
 # 🎵 Currently Playing
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cwvfer6voqqxs5n7b4q7qilxgi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=true&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cwvfer6voqqxs5n7b4q7qilxgi&redirect=true)
-
 <br>
 
 <div align="center">
