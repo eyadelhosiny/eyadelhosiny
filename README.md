@@ -10,24 +10,29 @@
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,tailwind,mongodb,mysql,bots,discordjs,kali,linux,git,github)
 
-Dreamer 💜| 😄 Passionate | 💻 Problem Solver
+Dreamer 💜 | 😄 Passionate | 💻 Problem Solver
 
 💬 Connect with me on Discord: [My Discord Account](https://discordapp.com/users/1018114834463727686)
 
 **I'm passionate about learning programming & crafting innovative solutions**
 
-
-# Contact Me
+# 📬 Contact Me
 
 [Portfolio](https://eyadelhosiny.vercel.app/) | [Instagram](https://www.instagram.com/eyad.elhosiny8) | [Youtube](https://www.youtube.com/@Potter_Head_62242) | [X](https://twitter.com/EyadElhosiny) | [Spotify](https://open.spotify.com/user/31cwvfer6voqqxs5n7b4q7qilxgi) | [Github](https://github.com/Eyad-Elhosiny) | [Twitch](https://www.twitch.tv/eyad_elhosiny)
 
 <br>
-  <a href=#><img width="100%"  src="Status.svg"></a>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
+
+# 🎵 Currently Playing
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eyadelhosiny&color=blueviolet" alt="Profile Views" />
+  <a href="https://open.spotify.com/user/31cwvfer6voqqxs5n7b4q7qilxgi">
+    <img src="https://widget.nowplaying.site/qlXcN4IFBACnu6OQ" alt="Spotify Now Playing" width="420" />
+  </a>
 </p>
+
+<br>
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+  <img src="https://komarev.com/ghpvc/?username=eyadelhosiny&color=blueviolet" alt="Profile Views" />
+</div>
